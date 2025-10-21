@@ -1,7 +1,13 @@
+<div align="center">
+
 # 🧮 Binary ⇄ Decimal Converter
 
 A sleek and responsive **Binary to Decimal Converter** built with **Python (PyQt6)** and a **modern HTML/CSS/JS interface**.  
 Easily convert binary numbers (Base 2) to decimal numbers (Base 10) instantly and interactively.
+
+<img width="520" height="638" alt="Binary Converter App - Canvas (Dark Theme)" src="https://github.com/user-attachments/assets/4d997747-de6f-4953-a470-a4c2899ba3a3" />
+
+</div>
 
 ---
 
