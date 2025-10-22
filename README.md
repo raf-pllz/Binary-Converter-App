@@ -6,6 +6,7 @@ A sleek and responsive **Binary to Decimal Converter** built with **Python (PyQt
 Easily convert binary numbers (Base 2) to decimal numbers (Base 10) instantly and interactively.
 
 <img width="520" height="638" alt="Binary Converter App - Canvas (Dark Theme)" src="https://github.com/user-attachments/assets/4d997747-de6f-4953-a470-a4c2899ba3a3" />
+Image is from the upcoming app version 2.0. App is displayed with the Dark Theme.
 
 </div>
 
